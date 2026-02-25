@@ -1,0 +1,2 @@
+client_mode,hot_rack_id,hot_node_frac,avg_read_time_s,cross_rack_traffic_mb,cross_rack_ratio
+uniform,-1,-1,0.2694880000000059,545280.0,0.426
